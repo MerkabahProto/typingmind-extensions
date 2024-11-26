@@ -1,6 +1,6 @@
 // TypingMind Extension: Apply Open Sans Font to All Elements
 
-(function() {
+function() {
     // Create a new style element
     const style = document.createElement('style');
     style.type = 'text/css';
